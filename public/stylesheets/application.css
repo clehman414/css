@@ -1,0 +1,11 @@
+body {
+  background-color: blueviolet;
+}
+
+p{
+  color: greenyellow;
+  font-size: 30px;
+}
+p.smaller {
+  font-size: 12px;
+}
